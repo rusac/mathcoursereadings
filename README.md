@@ -5,6 +5,7 @@ Various articles tangentially related to course materials or class discussions, 
 ## Short Stories
 
 - [Jokester - Isaac Asimov](http://blog.ac-versailles.fr/villaroylit/public/Jokester.pdf)
+- [The Book of Sand - Jorge Luis Borges](http://archives.evergreen.edu/webpages/curricular/2010-2011/natural-order/Readings/Week_09/The_Book_of_Sands.pdf)
 - [The Library of Babel - Jorge Luis Borges](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)
 
 
